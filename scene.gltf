@@ -2352,16 +2352,16 @@
   ],
   "images": [
     {
-      "uri": "textures/Material_baseColor.png"
+      "uri": "Material_baseColor.png"
     },
     {
-      "uri": "textures/Material_metallicRoughness.png"
+      "uri": "Material_metallicRoughness.png"
     },
     {
-      "uri": "textures/vagon_baseColor.png"
+      "uri": "vagon_baseColor.png"
     },
     {
-      "uri": "textures/vagon_metallicRoughness.png"
+      "uri": "vagon_metallicRoughness.png"
     }
   ],
   "materials": [
