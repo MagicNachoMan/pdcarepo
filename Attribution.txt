@@ -1,0 +1,9 @@
+Some of the assets used in this repository require appropriate attribution to their creator under the Creative Commons Attribution License.
+https://creativecommons.org/licenses/by/4.0/
+
+Attribution — You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any 
+reasonable manner, but not in any way that suggests the licensor endorses you or your use.
+
+To this end. Here is a list of the assets used in this repository that require attribution:
+
+1. Locomotive 3D model by Yanix hosted on Sketchfab - https://skfb.ly/6ORGx
